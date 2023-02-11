@@ -4,12 +4,12 @@
 
 ## 1
 
-- [Polynomial Regression](./Polynomial Regression/README.md)
-- [Classification with CNN](./Classification with CNN/README.md)
-- [KNN](/Dc-quyrNSHuUbpv0ZFHP7A)
-- [Naive Bayes](/hQEc-aM8SSGDqCWmrD1sGQ)
-- [Support Vector Machine](/RWzrZ1VPSkylL_YqeJrh4g)
-- [K-Means](/3XOPWq3xQPGzND_tWONuxA)
+- [Polynomial Regression](./Polynomial%20Regression/README.md)
+- [Classification with CNN](./Classification%20with%20CNN/README.md)
+- [KNN](./KNN/README.md)
+- [Naive Bayes](./Naive%20Bayes/README.md)
+- [Support Vector Machine](./Support%20Vector%20Machine/README.md)
+- [K-Means](./K-Means/README.md)
 
 ## 2
 
