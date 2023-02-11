@@ -4,8 +4,8 @@
 
 ## 1
 
-- [Polynomial Regression](/ti1jAbWlRSKzEThsVFRdZw)
-- [Classification with CNN](/_EJlZbm0RKGo8n6o-r4WwQ)
+- [Polynomial Regression](./Polynomial Regression/README.md)
+- [Classification with CNN](./Classification with CNN/README.md)
 - [KNN](/Dc-quyrNSHuUbpv0ZFHP7A)
 - [Naive Bayes](/hQEc-aM8SSGDqCWmrD1sGQ)
 - [Support Vector Machine](/RWzrZ1VPSkylL_YqeJrh4g)
