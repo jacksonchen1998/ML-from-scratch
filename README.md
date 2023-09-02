@@ -1,6 +1,11 @@
 # ML-from-scratch
 
-統整機器學習內部實際的運作理論，目的是希望我能將此技術內化，並能透過此筆記給其他人參考或說鞭策自己。
+This repository is a collection of machine learning algorithms implemented from scratch in Python.
+
+Every algorithm has three parts:
+- Using the algorithm to solve a problem with libraries
+- Using the algorithm to solve a problem without libraries (from scratch)
+- Using the algorithm to solve a real-world problem
 
 ## 1
 
